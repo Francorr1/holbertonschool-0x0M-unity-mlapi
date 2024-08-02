@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coliseum
+* source:	https://sketchfab.com/3d-models/coliseum-59ab1fd1db2c40299eccf9ff6fb62521
+* author:	johnnydalvi (https://sketchfab.com/johnnydalvi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coliseum" (https://sketchfab.com/3d-models/coliseum-59ab1fd1db2c40299eccf9ff6fb62521) by johnnydalvi (https://sketchfab.com/johnnydalvi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
